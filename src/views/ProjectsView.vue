@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h1>Here I tell you about me</h1>
+    <h1>Here I show you some of my projects (link to Github too)</h1>
   </div>
 </template>
 
